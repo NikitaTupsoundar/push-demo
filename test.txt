@@ -1,2 +1,7 @@
+
 welcome Devops
+<<<<<<< HEAD
 Hello Nikita
+=======
+How are you!!
+>>>>>>> 523636d (added one line)
